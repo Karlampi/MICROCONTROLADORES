@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\Debug\Actividad_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Actividad_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Actividad_1.map</FILE>
+  <FILE>Actividad_1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>19</LINE></setup>
+  <start><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>32</LINE></start>
+  <freq1><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>48</LINE></freq1>
+  <freq2><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>54</LINE></freq2>
+  <freq3><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>70</LINE></freq3>
+  <freq4><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>78</LINE></freq4>
+  <on_off><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>97</LINE></on_off>
+  <delay_freq2><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>58</LINE></delay_freq2>
+  <exit_freq><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>94</LINE></exit_freq>
+  <freq2_ajuste><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>67</LINE></freq2_ajuste>
+  <delay><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>104</LINE></delay>
+  <c1><FILE>C:\Users\karla\Documents\MicroControladores\Nano\ACTIVIDAD 1\Actividad_1\Actividad_1\main.asm</FILE><LINE>107</LINE></c1>
+ </LABELS>
+</ASSEMBLER_INFO>
